@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bfcroy1/static/css/main.167e9cae.chunk.css",
+    "main.js": "/bfcroy1/static/js/main.522f8f8f.chunk.js",
+    "main.js.map": "/bfcroy1/static/js/main.522f8f8f.chunk.js.map",
+    "runtime-main.js": "/bfcroy1/static/js/runtime-main.c7180d90.js",
+    "runtime-main.js.map": "/bfcroy1/static/js/runtime-main.c7180d90.js.map",
+    "static/js/2.4d3edbc9.chunk.js": "/bfcroy1/static/js/2.4d3edbc9.chunk.js",
+    "static/js/2.4d3edbc9.chunk.js.map": "/bfcroy1/static/js/2.4d3edbc9.chunk.js.map",
+    "index.html": "/bfcroy1/index.html",
+    "precache-manifest.7f8cbb5846e13e8ce5d2ba5a770d506a.js": "/bfcroy1/precache-manifest.7f8cbb5846e13e8ce5d2ba5a770d506a.js",
+    "service-worker.js": "/bfcroy1/service-worker.js",
+    "static/css/main.167e9cae.chunk.css.map": "/bfcroy1/static/css/main.167e9cae.chunk.css.map",
+    "static/js/2.4d3edbc9.chunk.js.LICENSE.txt": "/bfcroy1/static/js/2.4d3edbc9.chunk.js.LICENSE.txt",
+    "static/media/_booktemplate.css": "/bfcroy1/static/media/listbg.26ca5301.png",
+    "static/media/_common1.css": "/bfcroy1/static/media/feedback_sprite.ca906401.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7180d90.js",
+    "static/js/2.4d3edbc9.chunk.js",
+    "static/css/main.167e9cae.chunk.css",
+    "static/js/main.522f8f8f.chunk.js"
+  ]
+}
