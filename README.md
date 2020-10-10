@@ -1,6 +1,6 @@
 
 # react-loan-calculator
-Loan calculator component  build with React
+Loan calculator component Readme build with React
 
 ![alt text](https://raw.githubusercontent.com/rafalkaczynsky/react-loan-calculator/master/simple-loan-image.png)
 
